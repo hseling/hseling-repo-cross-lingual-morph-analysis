@@ -1,0 +1,2 @@
+recursive-include hseling_api_cross_lingual_morph_analysis/templates *
+recursive-include hseling_api_cross_lingual_morph_analysis/static *
